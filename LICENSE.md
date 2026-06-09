@@ -1,4 +1,4 @@
-# 
+# 官方 new token sniper bot 附加组件 Mac OS版 | 即时 new token sniper bot 附加组件 PC Windows版。集成 实时交易 和 事件监听器，跨平台性能最大化。
 
 
 
